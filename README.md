@@ -21,6 +21,12 @@
   <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
 </div> 
 
+## Redes Sociais 
+<div style="display:inline_block">
+  <a href="https://www.linkedin.com/in/bruno-lima-05aba3241"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+
 
 
 
