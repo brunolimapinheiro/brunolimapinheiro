@@ -1,33 +1,29 @@
-### Olá Eu Sou o Bruno 🕹️ 
-![bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunolimapinheiro&show_icons=true&theme=radical)
+<img src="https://i.ibb.co/ZLCdzVc/Mask-group-4.png" alt="Banner Bruno Lima">
 
-## Tecnologias 
-<div style="display:inline_block">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div>
-  
-## Aprendendo
-<div style="display:inline_block">
-  <img src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-</div>
+## 👀 Olá, Eu sou o Bruno!
 
-## Games
-<div style="display:inline_block">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
-</div> 
+- Desenvolvedor Frontend;
+- Cursando Análise e Desenvolvimento de Sistemas;
+- Membro organizador da comunidade [Code Warriors](https://codewarriorsdevs.vercel.app/);
 
-## Redes Sociais 
-<div style="display:inline_block">
-  <a href="https://www.linkedin.com/in/bruno-lima-05aba3241"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+## 🛠 Tecnologias
+<div style="display: flex">
+ <img src="https://i.ibb.co/NNLGfy5/React.png" alt="React" width="60" border="0">
+ <img src="https://i.ibb.co/x37XPtp/Type-Script.png" alt="Type-Script" width="60" border="0">
+ <img src="https://i.ibb.co/F3mSRfs/Java-Script.png" alt="Javascript" width="60">
+ <img src="https://i.ibb.co/HhqQ1BS/Tailwind.png" alt="Tailwind" width="60" border="0"> 
+ <img src="https://i.ibb.co/D8DmCfK/Python.png" alt="Python" width="60">
+ <img src="https://i.ibb.co/PFpMYr2/Bootstrap.png" alt="Bootstrap" width="60">
 </div>
 
+## 💡 Projetos Relevantes
 
+- [Óticas Bem Mais](https://github.com/brunolimapinheiro/oticas-bem-mais);
+- [Estecon](https://github.com/brunolimapinheiro/estecon);
+- [Opus](https://github.com/brunolimapinheiro/opus-frontend);
 
-
-
+## 📞 Contato
+<div style="display: flex">
+ <a href="https://www.linkedin.com/in/bruno-lima-05aba3241/"><img src="https://i.ibb.co/3MLdNst/Linkedin.png" alt="Linkedin" width="60" border="0"></a>
+ <a href="mailto:<email>"><img src="https://i.ibb.co/ZxSTBhg/Gmail.png" alt="Gmail" width="60" border="0"></a>
+</div>
